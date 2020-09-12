@@ -49,5 +49,8 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean"
   },
-  "repository": "git://github.com/dspinkman/gatsby-theme-intro.git#dev"
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dspinkman/gatsby-theme-intro.git#dev"
+  }
 }
