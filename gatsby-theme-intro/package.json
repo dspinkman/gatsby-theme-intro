@@ -1,6 +1,6 @@
 {
-  "name": "@wkocjan/gatsby-theme-intro",
-  "description": "Personal branding theme for developers",
+  "name": "@dspinkman/gatsby-theme-intro",
+  "description": "Customized intro site for blog",
   "version": "1.0.14",
   "main": "index.js",
   "author": "Wojciech Kocjan <wojciech@kocjan.net>",
@@ -51,9 +51,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wkocjan/gatsby-theme-intro"
+    "url": "https://github.com/dspinkman/gatsby-theme-intro"
   },
   "bugs": {
-    "url": "https://github.com/wkocjan/gatsby-theme-intro/issues"
+    "url": "https://github.com/dspinkman/gatsby-theme-intro/issues"
   }
 }
