@@ -1,6 +1,6 @@
 {
   "name": "@dspinkman/gatsby-theme-intro",
-  "description": "Customized intro site for personal blog",
+  "description": "Customized intro site for blog",
   "version": "1.0.0",
   "main": "index.js",
   "author": "dspinkman <slf.addicted@gmail.com>",

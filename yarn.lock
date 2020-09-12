@@ -1000,6 +1000,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
+"@dspinkman/gatsby-theme-intro@git://github.com/dspinkman/gatsby-theme-intro.git#dev":
+  version "1.0.14"
+  resolved "git://github.com/dspinkman/gatsby-theme-intro.git#f30912f92b65fc3ab1bc50ec6b80dc263ef2b2e7"
+
 "@emotion/cache@^10.0.27":
   version "10.0.29"
   resolved "https://registry.npmjs.org/@emotion/cache/-/cache-10.0.29.tgz#87e7e64f412c060102d589fe7c6dc042e6f9d1e0"
