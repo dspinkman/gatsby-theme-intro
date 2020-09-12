@@ -3,19 +3,20 @@ import { arrayOf, shape, string, object, oneOf } from "prop-types"
 
 export const ProjectType = {
   description: string,
+  details: string,
   icon: oneOf(["github", "website"]),
   image: shape({
     childImageSharp: object.isRequired,
   }),
   name: string.isRequired,
-  status: string,
+  position: string,
   tags: arrayOf(string),
-  url: string,
 }
 
 export const query = graphql`
   fragment ProjectFragment on ProjectsYaml {
     description
+    details
     icon
     image {
       childImageSharp {
@@ -25,8 +26,7 @@ export const query = graphql`
       }
     }
     name
-    status
+    position
     tags
-    url
   }
 `
