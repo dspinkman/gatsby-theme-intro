@@ -3,7 +3,7 @@
   "name": "site",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Wojciech Kocjan <wojciech@kocjan.net>",
+  "author": "dspinkman <slf.addicted@gmail.com>",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
@@ -11,7 +11,7 @@
     "develop": "gatsby develop"
   },
   "dependencies": {
-    "gatsby-theme-intro": "*",
+    "@dspinkman/gatsby-theme-intro": "git://github.com/dspinkman/gatsby-theme-intro.git#dev",
     "gatsby": "^2.20.12",
     "react-dom": "^16.12.0",
     "react": "^16.12.0"

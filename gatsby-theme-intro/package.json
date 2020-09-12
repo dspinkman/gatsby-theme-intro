@@ -1,9 +1,9 @@
 {
   "name": "@dspinkman/gatsby-theme-intro",
-  "description": "Customized intro site for blog",
-  "version": "1.0.14",
+  "description": "Customized intro site for personal blog",
+  "version": "1.0.0",
   "main": "index.js",
-  "author": "Wojciech Kocjan <wojciech@kocjan.net>",
+  "author": "dspinkman <slf.addicted@gmail.com>",
   "dependencies": {
     "autoprefixer": "^9.7.6",
     "color": "^3.1.2",
@@ -51,9 +51,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dspinkman/gatsby-theme-intro"
-  },
-  "bugs": {
-    "url": "https://github.com/dspinkman/gatsby-theme-intro/issues"
+    "url": "git://github.com/dspinkman/gatsby-theme-intro.git#dev"
   }
 }
